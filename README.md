@@ -1,6 +1,6 @@
 # isys254 Applications Modelling and Development
 
-Assignment 2 Part 2 - Simple Food App
+Assignment 2 Part 2 - Simple Food Ordering App
 
 Development of a mobile application on Android operating system using React Native. 
 Application for CCS (Campus Common System).
